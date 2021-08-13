@@ -10,7 +10,7 @@ Original website:https://internshala.com/
 
 ## Technolgies used
 <ul>
-  <li>HMTL</li>
+  <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
  </ul>
