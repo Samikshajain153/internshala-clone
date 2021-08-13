@@ -23,7 +23,8 @@ Original website:https://internshala.com/
 </ul>
 
 ## Live website
-https://heizal.github.io/Internshala-Website-Clone/
+https://samikshajain153.github.io/internshala-clone/
+
 
 
 
